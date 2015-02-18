@@ -1,0 +1,1 @@
+-platform eglfs -plugin tslib:/dev/input/event0
